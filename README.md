@@ -15,11 +15,5 @@
 
 <div class="frame-wrap">
   <iframe
-    src="https://livelancsac-my.sharepoint.com/:x:/g/personal/norrisbc_lancaster_ac_uk/EdWrRyyvIeVLtrQYmUosk6MB5QUJUMzfEW-Wj1G59sy4Vw?e=fMPbsa&action=embedview
-         &Item=Display
-         &wdHideHeaders=True
-         &wdHideGridlines=True
-         &wdHideSheetTabs=True
-         &wdAllowInteractivity=False
-         &wdDownloadButton=False"></iframe>
+    src="https://livelancsac-my.sharepoint.com/:x:/g/personal/norrisbc_lancaster_ac_uk/EdWrRyyvIeVLtrQYmUosk6MB5QUJUMzfEW-Wj1G59sy4Vw?e=fMPbsa&action=embedview&Item=Display&wdHideHeaders=True&wdHideGridlines=True&wdHideSheetTabs=True&wdAllowInteractivity=False&wdDownloadButton=False"></iframe>
 </div>
